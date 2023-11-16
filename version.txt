@@ -1,0 +1,3 @@
+Project Name: java-swing-gui-tutorial
+Project Version: 1.0.0
+Project Owner: MakerMinds LLC (JCoaching)
